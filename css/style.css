@@ -1,0 +1,158 @@
+body{
+    background-color: #fff2f9 !important;
+}
+a{
+    padding: 10px;
+    color:palevioletred !important;
+    text-decoration: none!important ;
+    float: left;
+    margin-left: 100px;
+    font-size: 18px;
+    word-spacing: 50px;
+    
+}
+ul{
+    margin-left: 100px;
+    background-color: black;
+    padding: 15px;
+    height: 50px;
+    font-size: larger;
+    width: 92%;
+  
+}
+ul a:hover{
+    color: pink;
+}
+.barner{  
+    margin-bottom: 25px;
+    margin-right: 50px;
+}
+input{
+    border-radius: 6px;
+    float: right;
+    padding: 7px 5px;
+}
+.logodiv{
+    float: left;
+   
+}
+h2{
+    margin-top: 40px;
+    text-align: center;
+    color: rgb(233, 79, 105)!important;
+    font-family: Arial, Helvetica, sans-serif!important;
+
+    
+  
+}
+p{
+    font-size: medium;
+    font-family: sans-serif;
+    float: left;
+    
+    
+    
+ 
+}
+.picture6{
+    margin-left: 650px;
+    margin-top: 0px;
+}
+
+
+.heading1{
+    font-family: cursive;
+    font-size: xx-large;
+    opacity: 100%;
+    margin-left: 500px;
+}
+.btn-primary{
+     background-color:  rgb(233, 79, 105);
+    border-radius: 6px;
+    padding: 10px 12px!important;
+    color: black;
+    margin-left: 50px;
+ 
+}
+h6{
+    color: black;
+    font-size: larger!important;
+}
+
+
+.promise{
+   float: left;
+   margin-right: 50px;
+
+}
+h5{
+    
+    font-size: large;
+    font-family: sans-serif;
+   
+}
+
+.pic7{
+    float: left;
+}
+
+h4{
+
+color: white!important;
+}
+
+
+.container{margin-top: 50px;}
+.btnclick{ 
+    background-color: rgb(233, 79, 105);
+    border-radius: 20px;
+    padding: 7px  !important;
+    color: black;
+    width: 160px !important;
+    float: left;
+   
+}
+.servebar{
+    
+    margin-left: 100px;
+    background-color: black;
+    padding: 10px  !important;
+    height: 80px!important;
+    font-size: large;
+    width: 1350px;
+}
+
+.btn btn-primary btn-block {
+    font-size: 20px;
+    font-weight: 500;
+    
+    line-height: 1.7em!important;
+    background-color: transparent!important;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border: 2px solid;
+    border-radius: 3px;
+}
+
+
+
+.fabout{
+    background-color: black;
+    color:rgb(233, 79, 105); 
+    padding: 15px;
+    width: 100% !important;
+    display: grid;
+    margin-top: 150px;
+    
+}
+    
+.text-center{
+    background-color: black !important;
+    color: white;
+}
+.bg-transparent{
+    border: 5px;
+    border-color: #2ea3f2!important;
+
+}
